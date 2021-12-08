@@ -11,3 +11,12 @@ Storybook est là pour vous aider à prototyper et documenter vos composants. Si
 Vous pourrez supprimer le contenu de ce README et vous l'approprier en y notant les éléments importants de votre projet. Il est très important de bien documenter un projet !
 
 Inspirez-vous des grands repos open sources qui existent sur github. Les informations qui reviennent souvent sont une description du projet (pourquoi, comment...), la maniere de lancer le projet et eventuellement d'y contribuer, une documentation sur des éléments que vous voulez mettre en avant et pour finir les noms des contributeurs.
+
+
+var redirect_uri = "http://localhost:3000/index.html";
+ 
+
+var client_id = "6bc52007f6114854ad75a84a1d119b23"; 
+var client_secret = "2012507c1745422a870e36b179319902"
+
+const AUTHORIZE = "https://accounts.spotify.com/authorize"

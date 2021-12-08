@@ -4,11 +4,15 @@ import Plot from 'react-plotly.js';
 
 
 
-function Titre({accessToken, search})  {
+function Titre({accessToken, search, titre})  {
    
+    
    
-        return (
+
+      
+    return (
             <div>
+                 {titre}
             </div>
         )
 }
